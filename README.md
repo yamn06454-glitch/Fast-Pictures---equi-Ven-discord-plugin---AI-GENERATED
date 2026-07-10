@@ -11,7 +11,7 @@ A free, open-source Vencord/Equicord plugin. It's like "Favorites GIFs," but for
 ## Send as Link (Bypass Image Restriction)
 This plugin allows you to send pictures as links. If a channel has "Send Pictures" disabled, you can bypass that restriction and send an image as a link.
 
-* **Setup:** You can make a server or right-click on an alt account and press Use for Fast Pictures links to set a path. (Make sure no one can access this chat so you keep your images private).
+* **Setup:** You can make a server or right-click on an alt account and press 'Use for Fast Pictures links' to set a path. (Make sure no one can access this chat so you keep your images private).
 * **Usage:** Press the Chain Icon button; it will upload the image to the path and get the link so you can use it. After the first time, it will be sent immediately.
 
 ---
